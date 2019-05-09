@@ -1,5 +1,5 @@
 def list():
-	g=[number%3==0, for number in range(100,150), h[y]=g%3]
+	g=[ for number in range(100,150),if number%3==0:, h[y]=g%3]
 		print(h)
 
 def sorted():
